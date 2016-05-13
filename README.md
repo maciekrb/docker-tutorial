@@ -39,6 +39,11 @@ $ docker inspect <container name>
 $ docker images
 ```
 
+### Pulling an image from the docker hub
+```sh
+$ docker pull redis
+```
+
 ### Removing docker images
 ```sh
 $ docker rmi <image name>
