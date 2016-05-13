@@ -55,5 +55,5 @@ $ docker images -f "dangling=true" -q | xargs docker rmi
 ```
 
 ## Resources
-[Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
-[docker-compose reference](https://docs.docker.com/compose/compose-file/)
+* [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
+* [docker-compose reference](https://docs.docker.com/compose/compose-file/)
